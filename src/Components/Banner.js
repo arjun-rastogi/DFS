@@ -52,7 +52,7 @@ const CarouselCaption = () => {
     <React.Fragment>
       <h2>Welcome To Digital Fly Solutions</h2>
       <h2>We Do Business All of Time</h2>
-      <p>-We Create a Concept into The Market -</p>
+      <p>-We Create a Concept Into The Market -</p>
       <Button variant="primary">Buy Now</Button>{' '}
       <Button variant="outline-secondary">Take a Tour</Button>
     </React.Fragment>
