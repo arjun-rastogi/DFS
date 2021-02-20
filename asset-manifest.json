@@ -1,33 +1,32 @@
 {
   "files": {
     "main.css": "/DFS/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/DFS/static/js/main.b9afc693.chunk.js",
-    "main.js.map": "/DFS/static/js/main.b9afc693.chunk.js.map",
-    "runtime-main.js": "/DFS/static/js/runtime-main.53a1af5a.js",
-    "runtime-main.js.map": "/DFS/static/js/runtime-main.53a1af5a.js.map",
+    "main.js": "/DFS/static/js/main.5110a37c.chunk.js",
+    "main.js.map": "/DFS/static/js/main.5110a37c.chunk.js.map",
+    "runtime-main.js": "/DFS/static/js/runtime-main.23a6a5ca.js",
+    "runtime-main.js.map": "/DFS/static/js/runtime-main.23a6a5ca.js.map",
     "static/css/2.a26587c0.chunk.css": "/DFS/static/css/2.a26587c0.chunk.css",
-    "static/js/2.5412f362.chunk.js": "/DFS/static/js/2.5412f362.chunk.js",
-    "static/js/2.5412f362.chunk.js.map": "/DFS/static/js/2.5412f362.chunk.js.map",
-    "static/js/3.0097af6f.chunk.js": "/DFS/static/js/3.0097af6f.chunk.js",
-    "static/js/3.0097af6f.chunk.js.map": "/DFS/static/js/3.0097af6f.chunk.js.map",
+    "static/js/2.61a25da7.chunk.js": "/DFS/static/js/2.61a25da7.chunk.js",
+    "static/js/2.61a25da7.chunk.js.map": "/DFS/static/js/2.61a25da7.chunk.js.map",
+    "static/js/3.907d51b8.chunk.js": "/DFS/static/js/3.907d51b8.chunk.js",
+    "static/js/3.907d51b8.chunk.js.map": "/DFS/static/js/3.907d51b8.chunk.js.map",
     "index.html": "/DFS/index.html",
     "static/css/2.a26587c0.chunk.css.map": "/DFS/static/css/2.a26587c0.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/DFS/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5412f362.chunk.js.LICENSE.txt": "/DFS/static/js/2.5412f362.chunk.js.LICENSE.txt",
+    "static/js/2.61a25da7.chunk.js.LICENSE.txt": "/DFS/static/js/2.61a25da7.chunk.js.LICENSE.txt",
     "static/media/1.21014a44.png": "/DFS/static/media/1.21014a44.png",
     "static/media/1.a54e74ad.jpg": "/DFS/static/media/1.a54e74ad.jpg",
-    "static/media/1.b8b4e906.png": "/DFS/static/media/1.b8b4e906.png",
-    "static/media/2.35ea7668.png": "/DFS/static/media/2.35ea7668.png",
     "static/media/2.362216b1.png": "/DFS/static/media/2.362216b1.png",
     "static/media/3.792d2c35.png": "/DFS/static/media/3.792d2c35.png",
-    "static/media/5.cb80d01d.png": "/DFS/static/media/5.cb80d01d.png",
+    "static/media/4.375caccd.jpg": "/DFS/static/media/4.375caccd.jpg",
+    "static/media/5.1f63b368.jpg": "/DFS/static/media/5.1f63b368.jpg",
     "static/media/font-awesome.css": "/DFS/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.53a1af5a.js",
+    "static/js/runtime-main.23a6a5ca.js",
     "static/css/2.a26587c0.chunk.css",
-    "static/js/2.5412f362.chunk.js",
+    "static/js/2.61a25da7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b9afc693.chunk.js"
+    "static/js/main.5110a37c.chunk.js"
   ]
 }
