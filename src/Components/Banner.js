@@ -4,6 +4,7 @@ import {Carousel, Button, Container} from 'react-bootstrap';
 import image1 from '../Assets/banner/1.png'; 
 import image2 from '../Assets/banner/2.png';
 import image3 from '../Assets/banner/3.png';
+import image4 from '../Assets/banner/4.jpg';
 
 
 function Banner() {
@@ -13,7 +14,7 @@ function Banner() {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={image1}
+      src={image4}
       alt="First slide"
     />
     <Carousel.Caption>
@@ -23,7 +24,7 @@ function Banner() {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={image2}
+      src={image4}
       alt="Second slide"
     />
 
@@ -34,7 +35,7 @@ function Banner() {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={image3}
+      src={image4}
       alt="Third slide"
     />
 

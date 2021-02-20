@@ -23,7 +23,7 @@ function Menu() {
         </Col>
         <Col sm={3}>
         <Media>
-        <i className="fa fa-mobile fa-3x text-primary" aria-hidden="true" />
+        <i className="fa fa-tablet fa-3x text-primary" aria-hidden="true" />
         <Media.Body>
           <h5>WEB MAKERS</h5>
           <p>
