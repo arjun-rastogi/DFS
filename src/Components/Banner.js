@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import {Carousel, Button, Container} from 'react-bootstrap';
 
 import image1 from '../Assets/banner/1.png'; 
@@ -6,47 +6,39 @@ import image2 from '../Assets/banner/2.png';
 import image3 from '../Assets/banner/3.png';
 import image4 from '../Assets/banner/4.jpg';
 
+class Banner extends Component {
 
-function Banner() {
-  return (
-    <Container>
-<Carousel>
+  state = {
+    items : [
+      {src: image4, alt: "First slide"},
+      {src: image4, alt: "Second slide"},
+      {src: image4, alt: "Third slide"}
+    ]
+    }
+
+    render() {
+      const { items } = this.state; 
+    return (
+      <Container>
+      <Carousel>
+        {items.map(item => 
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={image4}
-      alt="First slide"
+      src={item.src}
+      alt={item.alt}
     />
     <Carousel.Caption>
       <CarouselCaption />
     </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src={image4}
-      alt="Second slide"
-    />
+  </Carousel.Item>)}
 
-    <Carousel.Caption>
-    <CarouselCaption />
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src={image4}
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>
-    <CarouselCaption />
-    </Carousel.Caption>
-  </Carousel.Item>
 </Carousel>
 </Container>
-  )
+      );
+  }
 }
+ 
 
 const CarouselCaption = () => {
   return (

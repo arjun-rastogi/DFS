@@ -10,8 +10,10 @@ import image5 from '../Assets/banner/5.jpg';
 function Touch() {
     return (
         <Container>
+<div class="p-3 mb-2 bg-primary text-white">
+  <h1 className="text-center" style={{fontFamily:"initial"}}>Get in Touch Form</h1>
+</div>
             <Jumbotron>
-
   
    <Row>
     <Col sm={6}>

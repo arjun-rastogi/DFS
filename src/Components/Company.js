@@ -5,10 +5,11 @@ import image1 from '../Assets/services/1.jpg';
 function Company() {
     return (
         <Container>
+          
             <h1 classNameName="text-center">
             Digital Marketing Company in DELHI, INDIA  that Offers Guaranted Improvements
             </h1>
-            <hr classNameName="mt-2 mb-3"/>
+            <hr className="mt-2 mb-3"/>
             <Jumbotron>
            <Row>
     <Col sm={8}>Digital Markitors is a leading Digital Marketing Agency which offers a wide range of 

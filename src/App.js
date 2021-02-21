@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Contact from './Pages/Contact';
 import Home from './Pages/Home';
 import Profile from './Pages/Profile';
 import Services from './Pages/Services';
@@ -10,6 +11,7 @@ function App() {
       <Home />
       <Services />
       <Profile />
+      <Contact />
     </div>
         
   );
