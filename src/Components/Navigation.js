@@ -3,7 +3,7 @@ import { Navbar, Nav, NavDropdown, Form, FormControl, Button, Container } from '
 function Navigation() {
     return (
 <Container>
-<Navbar sticky="top" collapseOnSelect expand="lg" bg="light" variant="light">
+<Navbar fixed="top" collapseOnSelect expand="lg" bg="light" variant="light">
   <Navbar.Brand href="#home">DIGITAL FLY SOLUTONS</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">

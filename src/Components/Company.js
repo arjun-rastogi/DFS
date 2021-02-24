@@ -6,8 +6,8 @@ function Company() {
     return (
         <Container>
           
-            <h1 classNameName="text-center">
-            Digital Marketing Company in DELHI, INDIA  that Offers Guaranted Improvements
+            <h1 className="text-center">
+            Digital Marketing Company in Delhi, India that Offers Guaranted Improvements
             </h1>
             <hr className="mt-2 mb-3"/>
             <Jumbotron>

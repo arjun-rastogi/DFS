@@ -24,7 +24,7 @@ class Banner extends Component {
         {items.map(item => 
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block vw-100 vh-100"
       src={item.src}
       alt={item.alt}
     />
